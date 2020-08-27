@@ -13,9 +13,9 @@ const app = express();
 //konfigurasi koneksi
 const conn = mysql.createConnection({
   host: 'apps.tatamulia.co.id',
-  user: 'admin',
-  port: 2890,
-  password: '3Tata123T',
+  user: '',
+  port: ,
+  password: '',
   database: 'test'
 });
  
